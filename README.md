@@ -127,11 +127,11 @@ From smart contracts to mobile apps, from frontend to backend - I build end-to-e
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kreggscode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&ring_color=00FF00)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kreggscode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&ring_color=00FF00)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kreggscode&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kreggscode&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kreggscode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=kreggscode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kreggscode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="100%"/>
 
