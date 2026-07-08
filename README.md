@@ -186,14 +186,16 @@ From smart contracts to mobile apps, from frontend to backend - I build end-to-e
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kreggscode@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kreggscode.com)
 
-</div>
+<br><br>
 
-**💬 Open to:**
-- 🚀 Blockchain & Web3 projects
-- 📱 Mobile app development (Android/iOS)
-- 🌐 Full-stack web applications
-- 🤝 Freelance opportunities
-- 💼 Full-time positions
+**💬 Open to:**  
+🚀 Blockchain & Web3 projects  
+📱 Mobile app development (Android/iOS)  
+🌐 Full-stack web applications  
+🤝 Freelance opportunities  
+💼 Full-time positions  
+
+</div>
 
 ---
 
