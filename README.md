@@ -92,32 +92,51 @@ From smart contracts to mobile apps, from frontend to backend - I build end-to-e
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
-### 🌟 **Voltaire Insights** - Android App
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kreggscode/Voltaire-Insights)
+### 🤖 **Socrates AI** - Android App
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kreggscode/Socrates-Ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-![Stars](https://img.shields.io/github/stars/kreggscode/Voltaire-Insights?style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-> *A stunning Android app showcasing 1000+ Voltaire quotes with beautiful Jetpack Compose UI*
+> *An interactive, AI-powered conversational application designed to explore philosophy through classic Socratic dialogues.*
 
 **🎨 Features:**
-- 📱 **1000+ Quotes** organized in 20+ philosophy categories
-- 🌈 **Unique Gradient Colors** for each category
-- 🇫🇷 **French Translations** with text-to-speech support
-- ⭐ **Favorites System** with daily quote notifications
-- 🎭 **iOS-Inspired Design** with glassmorphism effects
-- 💾 **Offline-First** architecture with Room database
+- 💬 **Socratic Dialogues:** Engage in real-time, thought-provoking philosophical conversations with AI-driven personas.
+- 🎭 **Glassmorphic UI:** Modern and sleek UI design with beautiful frosted-glass aesthetics.
+- 💡 **Daily Affirmations:** Handpicked philosophical quotes and daily inspiration cards.
+- 💾 **Offline-First:** Robust local data management with Room Database.
 
-**🛠️ Tech Stack:** Kotlin • Jetpack Compose • Room • Coroutines • Material Design 3 • MVVM
+**🛠️ Tech Stack:** Kotlin • Jetpack Compose • Gemini API • Room Database • MVVM Architecture • Coroutines
 
 ---
 
-### 🚀 **More Projects Coming Soon!**
+### 🔍 **StackScope** - Chrome Extension
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kreggscode/StackScope)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-🔗 **DeFi Dashboard** - Web3 analytics platform (Solidity, React, Web3.js)  
-📱 **Crypto Wallet** - Secure mobile wallet (React Native, Blockchain)  
-🌐 **E-Commerce Platform** - Full-stack marketplace (Next.js, Node.js, MongoDB)  
+> *A privacy-focused, lightweight, and ultra-fast Chrome extension to instantly detect web technologies on any website.*
+
+**🎨 Features:**
+- ⚡ **Instant Detection:** Identifies frameworks, CMS, JS libraries, and analytics tools in milliseconds.
+- 🔒 **Privacy-First:** Processes all detection locally in the browser with zero external tracking.
+- 📊 **Detailed Insights:** View library versions and categorization of detected tech stacks.
+- 🎨 **Minimalist UI:** Clean pop-up card displaying tech badges instantly.
+
+**🛠️ Tech Stack:** JavaScript (ES6+) • HTML5 • CSS3 (Vanilla) • Chrome Extension API • Webpack
+
+---
+
+### 🌟 **Voltaire Insights** - Android App
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/kreggscode/Voltaire-Insights)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+> *A stunning Android application featuring 1000+ Voltaire quotes categorized into 20+ philosophical themes.*
+
+**🎨 Features:**
+- 📱 **1000+ Quotes:** Curated thoughts organized across 20+ topics with dynamic gradient designs.
+- 🇫🇷 **French Translation:** Supports bilingual reading with text-to-speech engine.
+- ⭐ **Daily Notifications:** Built-in favorites manager with scheduled morning notification alarms.
+- 💾 **Room Persistence:** Local storage for quotes, categories, and favorited items.
+
+**🛠️ Tech Stack:** Kotlin • Jetpack Compose • Room • Coroutines • Material Design 3 • MVVM
 
 </div>
 
